@@ -1,7 +1,8 @@
 ### Schema
-CREATE DATABASE burgers_db;
-USE burgers_db;
+DROP DATABASE IF EXISTS i7pxswt3ocpe6z52;
+CREATE DATABASE i7pxswt3ocpe6z52;
 
+/*
 CREATE TABLE burgers
 (
 	id 			int 		 NOT NULL AUTO_INCREMENT,
@@ -10,3 +11,4 @@ CREATE TABLE burgers
 	date 		timestamp,
 	PRIMARY KEY (id)
 );
+*/
