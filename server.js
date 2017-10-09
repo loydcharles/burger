@@ -33,3 +33,13 @@ db.sequelize.sync().then(function() {
 		console.log("Listening on Port: " + port);
 	});
 });	
+
+
+//"production": {
+	//    "username": "root",
+	//    "password": "root",
+	//    "database": "database_production",
+	//    "host": "127.0.0.1",
+//		"dialect": "mysql"
+//	  }
+	

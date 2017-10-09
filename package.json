@@ -1,8 +1,8 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "using sequelize",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -24,7 +24,7 @@
     "method-override": "^2.3.9",
     "mysql": "^2.14.1",
     "mysql2": "^1.4.2",
-    "sequelize": "^4.8.4"
+    "sequelize": "^4.13.5"
   },
   "devDependencies": {}
 }
